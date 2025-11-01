@@ -42,7 +42,7 @@ class MyApp extends StatelessWidget {
 
         useMaterial3: true,
       ),
-      debugShowCheckedModeBanner: false,
+      debugShowCheckedModeBanner: true,
       home: const BuyerHomepage(),
     );
   }
